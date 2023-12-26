@@ -1,0 +1,23 @@
+h1 {
+    color:darkgreen;
+    font-family: Courier;
+    font-weight: bolder;
+}
+
+h3 {
+    color: darkgreen;
+    font-family: Verdana;
+}
+
+p, ul, ol {
+    color: rgb(5, 31, 5);
+    font-family: Verdana;
+    font-size: 14px;
+}
+
+a, strong {
+    color: rgb(73, 157, 73);
+    font-family: Courier;
+    font-weight: bold;
+    font-size: 16px;
+}
